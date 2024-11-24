@@ -2,4 +2,3 @@ django
 gunicorn
 django-ckeditor
 
-git+https://github.com/gbozee/pypaystack.git@master#egg=paystack
