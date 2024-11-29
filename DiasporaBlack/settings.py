@@ -28,7 +28,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['169.254.129.5:8000','diasporablack-b8hma7e3cshph0gn.canadacentral-01.azurewebsites.net']
 
-CSRF_TRUSTED_ORIGINS = ['https://diasporablack-b8hma7e3cshph0gn.canadacentral-01.azurewebsites.net/']
+CSRF_TRUSTED_ORIGINS = [
+    'https://diasporablack-b8hma7e3cshph0gn.canadacentral-01.azurewebsites.net'
+]
+
 # Application definition
 
 INSTALLED_APPS = [
