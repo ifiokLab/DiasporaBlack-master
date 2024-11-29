@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-(14@4jf4hf%v^p$w7rcv5-l##@wpj++i@2j&6a9apg($7p8hnv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['diasporablack-b8hma7e3cshph0gn.canadacentral-01.azurewebsites.net']
+ALLOWED_HOSTS = ['169.254.129.5:8000','diasporablack-b8hma7e3cshph0gn.canadacentral-01.azurewebsites.net']
 
 
 # Application definition
